@@ -13,7 +13,7 @@ Welcome to my corner of the digital world! As I embark on my journey into the re
     
 - <b>Microsoft Azure</b>
 
-  - [Creating Windows 10 VM](https://github.com/Robertc30/Azure)
+  - [Creating Windows 10 VM](https://github.com/Robertc30/Azure/blob/main/README.md)
   - [Configuring Active Directory within Azure VMs](https://github.com/joshmadakoredmonds/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakoredmonds/azure-network-protocols)
     
