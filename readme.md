@@ -8,7 +8,7 @@ Welcome to my corner of the digital world! As I embark on my journey into the re
 - <b>osTicket (Help Desk Ticketing System)</b>
 
   - [osTicket: Installation](https://github.com/Robertc30/OsTicket/blob/main/README.md)
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakoredmonds/post-install-config)
+  - [osTicket: Users and SLAs](https://github.com/Robertc30/SLAs)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakoredmonds/ticket-lifecycle)
     
 - <b>Microsoft Azure</b>
