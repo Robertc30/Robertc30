@@ -1,4 +1,4 @@
-<h1>Hi, I'm Rob, an <a href="(https://www.linkedin.com/in/robert-cordero-703365198/)">IT Professional</a>☺</h1>
+<h1>Hi, I'm Rob, an aspiring IT Professional</a></h1>
 
 Welcome to my corner of the digital world! As I embark on my journey into the realm of IT, I stand as a perpetual student, eagerly absorbing the latest advancements and innovations in technology. With an insatiable curiosity and a passion for cutting-edge technologies, I am driven by the pursuit of excellence in computing. My ultimate aspiration? To secure a rewarding remote position in the IT industry, affording me the freedom to explore the vast landscapes of the United States while working from the comfort of my RV. Join me as I navigate this exciting path, striving to merge my love for technology with my dreams of a nomadic lifestyle. Together, let's embrace the adventure and harness the power of technology to shape a future where possibilities are limitless. I will continue to learn and showcase my skills here until I have what it takes to make that happen!! Feel free to reach out by any means necessary really.
 
