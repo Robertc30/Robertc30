@@ -13,9 +13,9 @@ Welcome to my corner of the digital world! As I embark on my journey into the re
     
 - <b>Microsoft Products</b>
 
-  - [Creating Windows 10 VM](https://github.com/Robertc30/Azure/blob/main/README.md)
+  - [Microsoft Azure Creating Windows 10 VM](https://github.com/Robertc30/Azure/blob/main/README.md)
   - [Configuring Active Directory within Azure VMs](https://github.com/joshmadakoredmonds/configure-ad)
-  - [Teams](https://github.com/Robertc30/Random2)
+  - [Microsoft Teams](https://github.com/Robertc30/Random2)
     
 
 <h2>Follow the journey on LinkedIn or Contact me directly</h2>
