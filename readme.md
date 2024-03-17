@@ -20,8 +20,8 @@ Welcome to my corner of the digital world! As I embark on my journey into the re
 - <b>Tools</b>
 
   - [VPNs](https://github.com/Robertc30/Random1)
-  - [Configuring Active Directory within Azure VMs](https://github.com/Robertc30/ActiveDirectory)
-  - [Microsoft Teams](https://github.com/Robertc30/Random2)
+  - [Remote Access Solutions](LINKME)
+  - [Network Security](LINKME)
 
 
 <h2>Follow the journey on LinkedIn or Contact me directly</h2>
