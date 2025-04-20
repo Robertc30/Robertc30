@@ -1,32 +1,49 @@
-<h1>Hi, I'm Rob, an <a href="(https://www.linkedin.com/in/robert-cordero-703365198/)">IT Professional</a></h1>
+# 🧠 Rob Cordero — Builder of the Future
 
-Welcome to my corner of the digital world! As I embark on my journey into the realm of IT, I stand as a perpetual student, eagerly absorbing the latest advancements and innovations in technology. With an insatiable curiosity and a passion for cutting-edge technologies, I am driven by the pursuit of excellence in computing. My ultimate aspiration? To secure a rewarding remote position in the IT industry, affording me the freedom to explore the vast landscapes of the United States while working from the comfort of my RV. Join me as I navigate this exciting path, striving to merge my love for technology with my dreams of a nomadic lifestyle. Together, let's embrace the adventure and harness the power of technology to shape a future where possibilities are limitless. I will continue to learn and showcase my skills here until I have what it takes to make that happen!! Feel free to reach out by any means necessary really.
+Founder. Technologist. Relentless Builder.  
+Currently engineering **HiveMind** — an open-source collaborative AI platform for real-time idea acceleration.
 
-<h2>Information Technology Projects:</h2>
+---
 
+## 🚀 What I'm Building
 
-- <b>osTicket (Help Desk Ticketing System)</b>
+### [HiveMind](https://github.com/Robertc30/HiveMind)  
+**Collaborative AI chatrooms** designed for creators, teams, and innovators who move fast.  
+- Real-time chat powered by your own AI keys (Groq, OpenRouter, Gemini)  
+- Visual brainstorming whiteboards  
+- Bring-your-own-model architecture (future-proofed)  
+- Built with React, Socket.IO, TailwindCSS, and Node.js
 
-  - [osTicket: Installation](https://github.com/Robertc30/OsTicket/blob/main/README.md)
-  - [osTicket: Adding users](https://github.com/Robertc30/Users)
-  - [osTicket: SLAs](https://github.com/Robertc30/SLAs)
-    
-- <b>Microsoft Products</b>
+> **Vision:** HiveMind will become the home for real-time idea generation, project acceleration, and creator collaboration.
 
-  - [Microsoft Azure Creating Windows 10 VM](https://github.com/Robertc30/VM)
-  - [Configuring Active Directory within Azure VMs](https://github.com/Robertc30/ActiveDirectory)
-  - [Microsoft Teams](https://github.com/Robertc30/Random2)
+---
 
-- <b>Tools</b>
+## 🛠 Tech Stack and Focus
 
-  - [VPNs](https://github.com/Robertc30/Random1)
-  - [Remote Access Solutions](LINKME)
-  - [Network Security](LINKME)
+- **Frontend:** React 18 + Vite + TypeScript + TailwindCSS
+- **Backend:** Node.js + Express + Socket.IO
+- **AI Integration:** Groq API, OpenRouter compatibility (Coming Soon)
+- **Hosting:** Vercel, Render, Supabase
+- **Mindset:** Ship fast, iterate smarter, always build in public.
 
+---
 
-<h2>Follow the journey on LinkedIn or Contact me directly</h2>
+## 🧠 Build Journey
 
-<img align="left" alt="Rob | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="center" alt="Rob | Gmail" width="22px" src="https://i.imgur.com/Wv76wht.png" />
+- Follow the real-time development of HiveMind:  
+  [📜 HiveMind Build Chat Log](https://chatgpt.com/share/68051105-4c8c-8000-88d8-9f931d52bf8e)
 
-Robert.m.cordero@gmail.com
+---
+
+## 🌎 Connect or Collaborate
+
+- (Personal Website Coming Soon...)
+
+---
+
+> **"Most people consume.  
+> A few create.  
+> Even fewer create systems that empower others.  
+> I'm building for the third group."**
+
+---
